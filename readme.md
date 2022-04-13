@@ -3,13 +3,13 @@
 ## Info
  -- "Primeira vez usando git"
  > Olá GitHub!
- >> Quero testar minha primeira versão do git test!;  
- >> versão 0.2.3
+ >> versão de teste - v0.2.4
  >> ## ChangeLog:
  >>  ### Removidos
- >> * Removido Projeto.html
+ >> * Removido: Projeto.html
  >> ## Adicionados
- >> * Adicionado novotest.html
+ >> * Adicionado: novotest.html
 
  >> ## Alterações
- >> * quebra linha test 1
+ >> * novo estilo no readme
+ >> * quebra de linhas ao readme
