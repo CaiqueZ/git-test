@@ -3,7 +3,8 @@
 ## Info
  -- "Primeira vez usando git"
  > Olá GitHub!
- >> versão de teste - v0.2.4
+ >> versão 0.2.4a
+ >> versão de teste - test18-04
  >> ## ChangeLog:
  >>  ### Removidos
  >> * Removido: Projeto.html
